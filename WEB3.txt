@@ -1,0 +1,96 @@
+web3 is new internet
+web3 describe the third stage of the web
+instead of using encryption blockchain uses hashing
+hasing is very similar to encryption
+to go back from hash to normal we have to brute force it
+nounce is combined with data to produce hash
+canister in motoko is called actor
+to change the value of variable we use := sign
+print allows to put text in funciton
+print function expects something that is piece of text of type nat which is a natural number
+debug_show helps us to print the values inside the actor
+var creates a variable
+let value do cannot change
+let is a constant
+to import liblary we use mo:base
+to create a function we use func keyword and then name
+function which is only accessiable in one actor is called private function\
+to call function from anywhere we have to add public in front of the function
+use uppercamelcase for type names (including classes or type parameters), module names and actor
+use lowercamelcase for all other names, including constants and variant fields
+candid is an interface description language
+Nat is natural number
+when we use dfx deploy all of our variables get reset
+we can assing data types using :{data type}
+query calls --> allow the user to query the current state of a canister or call a function that operates on the canister's state without changing it
+update calls --> allow the user to change the state of the canister and have changes persisted
+to use query calls we use query keyword in the function
+to add presistence to the code we use stable keyword in fornt of var
+:= replace operator
+time moudle is in base liblary of motoko
+to write power in motoko we use 2 **
+cyles allows us todeploy our creation onto the live icp network
+NNS - network nervous system
+nns basically is a governing system that controls all aspects of the internet computer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
